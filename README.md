@@ -9,7 +9,7 @@
 
 本App为中文漫画, 因此App界面语言仅支持中文, 漫画源仅限于有中文漫画的漫画源，目前支持Android
 
-## 👀 Demo
+## 👀 下载
 
 - [漫画猫](https://github.com/Cat-Zhua/Comic/releases)
 
