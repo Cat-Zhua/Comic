@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="logo" height="80" src="https://www.mzsq.top/img/logo.png" />
 <h2>漫画猫</h2>
-<p>一个正经的漫画App</p>
+<p>一个免费的正经漫画App</p>
 </div>
 <br />
 
