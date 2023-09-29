@@ -11,7 +11,7 @@
 
 ## 👀 下载
 
-- [漫画猫](https://github.com/Cat-Zhua/Comic/releases)
+- [点我下载漫画猫](https://github.com/cat-zhua/comic/releases/latest)
 
 ## 🎉 功能
 - 主页
@@ -26,8 +26,9 @@
 
 欢迎提出问题和功能建议
 
-## 📜 QQ交流群
-1群：710334985
+## 📜 官方QQ频道
+- [点我加入频道](
+https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YiAi2EF13o&businessType=9&from=246610&biz=ka&mainSourceId=share&subSourceId=others&jumpsource=shorturl#/out)
 
 ## 📢 免责声明
 
